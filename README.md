@@ -1,1 +1,1 @@
-# odin-recipes
+This is a basic practice website in the Odin Project curriculum to get a basic handle on HTML, Git commands and terminal operations.  Brutal AF, homie.  # odin-recipes
